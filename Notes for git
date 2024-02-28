@@ -10,3 +10,5 @@ CHDIR	Displays the name of or changes the current directory.
 CHKDSK	Checks a disk and displays a status report.
 CHKNTFS	Displays or modifies the checking of disk at boot time.
 CLS	Clears the screen.
+
+now added the data in
